@@ -14,9 +14,9 @@ Adjust the motor speed by modulating the PWM duty cycle in response to varying i
 
 # System Components:
 ## The system includes:
-### Arduino ATmega2560: Reads the potentiometer value and produces PWM signals at a 200 kHz frequency. The duty cycle of the PWM is determined by the input from the potentiometer.
-#### Potentiometer: Adjusts the voltage input.
-##### Oscilloscope: Displays the output PWM waveform.
+1) Arduino ATmega2560: Reads the potentiometer value and produces PWM signals at a 200 kHz frequency. The duty cycle of the PWM is determined by the input from the potentiometer.
+2)Potentiometer: Adjusts the voltage input.
+3) Oscilloscope: Displays the output PWM waveform.
 
 # The project simulation:
 <img src="https://github.com/msayed6789/Fire_System_Embedded_Proj/blob/main/Photos/fire_System.PNG" width=100%>
