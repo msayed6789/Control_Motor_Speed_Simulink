@@ -5,7 +5,7 @@ Adjust the motor speed by modulating the PWM duty cycle in response to varying i
 
 # Technical Features:-
 ## The input voltage between 0 to 1V --> the motor speed 10% from rated speed (Duty=10%)
-### The input voltage between 1 to 2V --> the motor speed 10% from rated speed (Duty=20%)
+## The input voltage between 1 to 2V --> the motor speed 10% from rated speed (Duty=20%)
 #### The input voltage between 2 to 3V --> the motor speed 10% from rated speed (Duty=50%)
 ##### The input voltage between 3 to 4V --> the motor speed 10% from rated speed (Duty=70%)
 ###### The input voltage between 4 to 5V --> the motor speed 10% from rated speed (Duty=90%)
